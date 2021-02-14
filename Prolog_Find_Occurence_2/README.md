@@ -1,1 +1,1 @@
-Find element that occurs twice on a list
+Find element that not occurs twice on a list
